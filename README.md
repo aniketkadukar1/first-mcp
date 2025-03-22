@@ -1,6 +1,6 @@
 # Documentation Search MCP
 
-A Cursor MCP server that allows you to search documentation from popular AI/ML libraries directly within your IDE. Currently supports:
+A MCP server that allows you to search documentation from popular AI/ML libraries directly within your IDE. Currently supports:
 - LangChain
 - LlamaIndex
 - OpenAI
